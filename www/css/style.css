@@ -1098,8 +1098,9 @@ blockquote cite:before {
     padding: 15px;
   }
   .nav-scroll .logo-wrapper {
-    padding: 15px;
+    padding: 0;
     background-color: #fff;
+    margin-left: 15px;
   }
 }
 
